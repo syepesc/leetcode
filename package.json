@@ -1,0 +1,23 @@
+{
+  "name": "programming_problems",
+  "version": "1.0.0",
+  "description": "Resolving problems from different sources, like:",
+  "main": "gfg_max_sub_array_sum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syepesc/programming_problems.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syepesc/programming_problems/issues"
+  },
+  "homepage": "https://github.com/syepesc/programming_problems#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
