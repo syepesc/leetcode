@@ -18,5 +18,5 @@ function maxSubarraySum(arr = []) {
     return res;
 }
 
-// console.log(maxSubarraySum([2, 3, -8]))
-console.log(maxSubarraySum([2, 3, -8, 7, -1, 2, 3]))
+
+module.exports = maxSubarraySum
